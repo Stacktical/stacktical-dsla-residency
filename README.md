@@ -23,18 +23,15 @@ Completing a task in one of these categories entitles DSLA Residents to a DSLA b
 
 # Enrolling to the DSLA Residency
 
+All current tasks are managed using our [Dework](https://dework.xyz/dsla) page.
+
 ## Step 1: Pick a task
 
-1/ Browse Github [issues](https://github.com/Stacktical/stacktical-dsla-residency/issues) and raise your hand 🙋‍♂️ in the comments section to show interest.
+Browse the open issues and bounties at [https://dework.xyz/dsla](https://dework.xyz.dsla) and apply to or contribute to any that you are interested in.
 
-## Step 2: Contact us
+## Step 2: Questions? Contact us
 
-Email founders+residency@stacktical.com with:  
-
-- Your Github username
-- An introduction about yourself
-- A link to the task of your choice
-- An outline of your plan to complete it
+If you have any questions feel free to hop into our [Discord](https://discord.gg/2XhwdRjFnn) server and chat us up!
 
 ## Step 3: Onboarding
 
@@ -45,5 +42,3 @@ Some tasks might require signing a Non Disclosure Agreement (NDA).
 ## Step 4: Complete your task
 
 Congratulations on contributing to DSLA! 🎉
-
-Completed tasks will be reflected in this repository.
